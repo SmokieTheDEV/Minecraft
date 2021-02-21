@@ -4,4 +4,4 @@ A copy of minecraft built in phython libraby.
 - Make sure you have Phython 32/64 bit installed .
 - Must know a bit of basics about the py libraby .
 - Enjoy :)
-# Crediits Clear-code
+# Clear-code Developent
